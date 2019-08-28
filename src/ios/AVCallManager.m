@@ -293,7 +293,7 @@ static AVCallManager *_shareInstance = nil;
         
     }];
     
-    [self.agoraKit startPreview];
+//     [self.agoraKit startPreview];
     
     [self joinChannel];
 }
